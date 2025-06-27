@@ -64,6 +64,10 @@ jupyter notebook notebooks/e-commerce.ipynb
 - The dataset is from a UK-based online retailer, capturing transactions between 2010 and 2011.
 - Ensure the `Online Retail.csv` file is placed in the `data/` folder for the notebook to function correctly.
 
+## 🤖 Note on AI Assistance
+
+This project was developed with the support of AI tools including **ChatGPT** for guidance on data analysis, Git usage, and documentation enhancements. These tools were used to accelerate development and improve code quality.
+
 ## 📬 Contact
 
 For questions or suggestions, feel free to reach out or open an issue.
